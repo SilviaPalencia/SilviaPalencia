@@ -41,4 +41,11 @@ Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en fo
 |---|---|---|
 | [Análisis de ventas de una tienda online](https://github.com/SilviaPalencia/data-analyst-project-277) | Exploración de ventas y dashboard con los principales indicadores | Google Sheets, SQL, Preset |
 | [Analítica integral: Escuela online](https://github.com/SilviaPalencia/data-analyst-project-279) | Recorrido del usuario desde el anuncio hasta la compra con el modelo Last Paid Click | SQL |
-| [Dashboard de conversiones](https://github.com/SilviaPalen
+| [Dashboard de conversiones](https://github.com/SilviaPalencia/data-analyst-project-280) | Análisis de visitas, inscripciones y publicidad con datos de una API | Python, pandas, Matplotlib, Seaborn |
+
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/SilviaPalencia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
+<a href="https://www.linkedin.com/in/silvia-valentina-palencia-carvajal-1b39251ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
+</p>
