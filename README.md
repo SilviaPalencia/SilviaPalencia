@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Silvia Valentina Palencia Carvajal
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Soy Silvia Valentina Palencia Carvajal
 ===========================================================================================================================================================
 
 Analista de Datos Junior
 ------------------------
 
-Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en formación, con certificación en Análisis de Datos de Códica. Me apasiona convertir datos en conclusiones claras que ayuden a tomar mejores decisiones. Trabajo con SQL, Python (pandas, Matplotlib, Seaborn), Google Sheets y Preset (Superset).
+Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en formación, con certificación en Análisis de Datos de [Códica](https://app.codica.la/programs/data-analyst). Me apasiona convertir datos en conclusiones claras que ayuden a tomar mejores decisiones. Trabajo con SQL, Python (pandas, Matplotlib, Seaborn), Google Sheets y Preset (Superset).
 
-* 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [Mis proyectos de análisis de datos](https://github.com/SilviaPalencia?tab=repositories)
-* ✉️  You can contact me at [silviapalencia12@gmail.com](mailto:silviapalencia12@gmail.com)
-* 🚀  I'm currently working on [Dashboard de conversiones de marketing](https://github.com/SilviaPalencia/data-analyst-project-280)
-* 🧠  I'm currently learning SQL avanzado, estadística aplicada y Power BI
-* 👥  I'm looking to collaborate on proyectos de análisis de datos, dashboards y visualización
+* 🌍  Vivo en Colombia
+* 🖥️  Mira mi portafolio en [Mis proyectos de análisis de datos](https://github.com/SilviaPalencia?tab=repositories)
+* ✉️  Puedes contactarme en [silviapalencia12@gmail.com](mailto:silviapalencia12@gmail.com)
+* 🚀  Actualmente trabajo en [Dashboard de conversiones de marketing](https://github.com/SilviaPalencia/data-analyst-project-280)
+* 🧠  Estoy aprendiendo SQL avanzado, estadística aplicada y Power BI
+* 👥  Me interesa colaborar en proyectos de análisis de datos, dashboards y visualización
 * 💼  Busco mi primera oportunidad como Analista de Datos
 
 ### Skills
@@ -31,7 +31,7 @@ Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en fo
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Superset](https://img.shields.io/badge/Preset%20(Superset)-20A6C9?style=flat&logo=apachesuperset&logoColor=white)
+![Preset (Superset)](https://img.shields.io/badge/Preset%20%28Superset%29-20A6C9?style=flat&logo=apachesuperset&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -39,13 +39,13 @@ Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en fo
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Análisis de ventas de una tienda online](https://github.com/SilviaPalencia/data-analyst-project-277) | Exploración de ventas y dashboard con los principales indicadores | Google Sheets, SQL, Preset |
-| [Analítica integral: Escuela online](https://github.com/SilviaPalencia/data-analyst-project-279) | Recorrido del usuario desde el anuncio hasta la compra con el modelo Last Paid Click | SQL |
-| [Dashboard de conversiones](https://github.com/SilviaPalencia/data-analyst-project-280) | Análisis de visitas, inscripciones y publicidad con datos de una API | Python, pandas, Matplotlib, Seaborn |
+| [Análisis de ventas de una tienda online](https://github.com/SilviaPalencia/data-analyst-project-277) | Análisis de ventas de 19.759 clientes y dashboard interactivo con los principales indicadores de vendedores, clientes e ingresos | Google Sheets, SQL, Preset |
+| [Analítica integral: Escuela online](https://github.com/SilviaPalencia/data-analyst-project-279) | Recorrido del usuario desde el anuncio hasta la compra con el modelo Last Paid Click: 2 de 32 canales generan el 92% de los ingresos | SQL, Google Sheets |
+| [Dashboard de conversiones](https://github.com/SilviaPalencia/data-analyst-project-280) | Análisis de 6 meses de visitas, inscripciones y publicidad con datos de una API, automatizado en Python | Python, pandas, Matplotlib, Seaborn |
 
-### Socials
+### Redes
 
 <p align="left">
-<a href="https://www.github.com/SilviaPalencia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
+<a href="https://github.com/SilviaPalencia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
 <a href="https://www.linkedin.com/in/silviapalencia-datos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
