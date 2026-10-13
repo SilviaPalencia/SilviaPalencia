@@ -6,15 +6,19 @@ Analista de Datos Junior
 
 Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en formación, con certificación en Análisis de Datos de [Códica](https://app.codica.la/programs/data-analyst). Me apasiona convertir datos en conclusiones claras que ayuden a tomar mejores decisiones. Trabajo con SQL, Python (pandas, Matplotlib, Seaborn), Google Sheets y Preset (Superset).
 
-* 🌍  Vivo en Colombia
-* 🖥️  Mira mi portafolio en [Mis proyectos de análisis de datos](https://github.com/SilviaPalencia?tab=repositories)
-* ✉️  Puedes contactarme en [silviapalencia12@gmail.com](mailto:silviapalencia12@gmail.com)
-* 🚀  Actualmente trabajo en [Dashboard de conversiones de marketing](https://github.com/SilviaPalencia/data-analyst-project-280)
-* 🧠  Estoy aprendiendo SQL avanzado, estadística aplicada y Power BI
-* 👥  Me interesa colaborar en proyectos de análisis de datos, dashboards y visualización
-* 💼  Busco mi primera oportunidad como Analista de Datos
+### 👩‍💻 Sobre mí
 
-### Skills
+| | |
+|---|---|
+| 🌍 **Ubicación** | Colombia |
+| 💼 **Objetivo** | Mi primera oportunidad como Analista de Datos |
+| 🚀 **Proyecto actual** | [Dashboard de conversiones de marketing](https://github.com/SilviaPalencia/data-analyst-project-280) |
+| 🧠 **Aprendiendo** | SQL avanzado, estadística aplicada y Power BI |
+| 👥 **Me interesa colaborar en** | Análisis de datos, dashboards y visualización |
+| ✉️ **Contacto** | [silviapalencia12@gmail.com](mailto:silviapalencia12@gmail.com) |
+| 🖥️ **Portafolio** | [Todos mis repositorios](https://github.com/SilviaPalencia?tab=repositories) |
+
+### 🛠️ Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
@@ -37,13 +41,13 @@ Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en fo
 
 ### 📊 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [Análisis de ventas de una tienda online](https://github.com/SilviaPalencia/data-analyst-project-277) | Análisis de ventas de 19.759 clientes y dashboard interactivo con los principales indicadores de vendedores, clientes e ingresos | Google Sheets, SQL, Preset |
-| [Analítica integral: Escuela online](https://github.com/SilviaPalencia/data-analyst-project-279) | Recorrido del usuario desde el anuncio hasta la compra con el modelo Last Paid Click: 2 de 32 canales generan el 92% de los ingresos | SQL, Google Sheets |
-| [Dashboard de conversiones](https://github.com/SilviaPalencia/data-analyst-project-280) | Análisis de 6 meses de visitas, inscripciones y publicidad con datos de una API, automatizado en Python | Python, pandas, Matplotlib, Seaborn |
+| Proyecto | Descripción | Stack | Resultado clave |
+|---|---|---|---|
+| [Análisis de ventas de una tienda online](https://github.com/SilviaPalencia/data-analyst-project-277) | Análisis exploratorio de ventas y dashboard interactivo con indicadores de vendedores, clientes e ingresos | SQL, Google Sheets, Preset | 19.759 clientes analizados; el 61% tiene 40+ años |
+| [Analítica integral: Escuela online](https://github.com/SilviaPalencia/data-analyst-project-279) | Recorrido del usuario desde el anuncio hasta la compra con el modelo de atribución Last Paid Click | SQL, Google Sheets | 2 de 32 canales generan el 92% de los ingresos |
+| [Dashboard de conversiones](https://github.com/SilviaPalencia/data-analyst-project-280) | Script que extrae datos de una API, limpia el tráfico de bots y genera visualizaciones de conversión | Python, pandas, Matplotlib, Seaborn | 138.703 visitas en 6 meses; conversión promedio del 16,5% |
 
-### Redes
+### 🔗 Redes
 
 <p align="left">
 <a href="https://github.com/SilviaPalencia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
