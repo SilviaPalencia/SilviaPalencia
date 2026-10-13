@@ -9,7 +9,7 @@ Tecnóloga en Desarrollo de Sistemas Informáticos e Ingeniera de Sistemas en fo
 ### 👩‍💻 Sobre mí
 
 | | |
-|---|---|
+
 | 🌍 **Ubicación** | Colombia |
 | 💼 **Objetivo** | Mi primera oportunidad como Analista de Datos |
 | 🚀 **Proyecto actual** | [Dashboard de conversiones de marketing](https://github.com/SilviaPalencia/data-analyst-project-280) |
